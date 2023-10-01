@@ -1,0 +1,40 @@
+getPopulationofCountry French Guiana Zone:4
+getPopulationofCountry United Kingdom of Andreas Vill Zone:4
+getPopulationofCountry French Guiana Zone:4
+getPopulationofCountry Seychelles Zone:4
+getPopulationofCountry Seychelles Zone:4
+getNumberofCities Philippines 58068 Zone:4
+getNumberofCities Equatorial Guinea 59582 Zone:4
+getNumberofCities  69308 Zone:4
+getNumberofCountries 30 57671  Zone:4
+getNumberofCountries 42 104933 172146  Zone:4
+getNumberofCountries 33 88439 92526  Zone:4
+getNumberofCities  16864 Zone:5
+getPopulationofCountry Norway Zone:4
+getPopulationofCountry India Zone:4
+getPopulationofCountry Ireland Guiana Zone:4
+getPopulationofCountry Brazil Zone:4
+getPopulationofCountry Portugal Zone:4
+getPopulationofCountry Canada Zone:4
+getPopulationofCountry Madagascar Zone:4
+getPopulationofCountry Sweden Zone:4
+getPopulationofCountry Denmark Zone:4
+getPopulationofCountry United Kingdom Guiana Zone:4
+getPopulationofCountry Colombia Zone:4
+getPopulationofCountry Mexico Zone:4
+getPopulationofCountry Qatar Zone:4
+getPopulationofCountry jioferw Zone:4
+getPopulationofCountry erf Zone:4
+getPopulationofCountry Iefr Zone:4
+getPopulationofCountry rf Guiana Zone:4
+getPopulationofCountry er Zone:4
+getPopulationofCountry erfer Zone:4
+getPopulationofCountry freerefr Zone:4
+getPopulationofCountry efrerefr Zone:4
+getPopulationofCountry vhhuyhnrth Zone:4
+getPopulationofCountry Denmark Zone:4
+getPopulationofCountry France Zone:4
+getPopulationofCountry Thailand Zone:4
+getPopulationofCountry Poland Zone:4
+getPopulationofCountry Hungary Zone:4
+getPopulationofCountry Argentina Zone:4

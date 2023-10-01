@@ -1,2 +1,2 @@
-# Statistics_Service
-The Java-RMI International Statistics Service
+# IN5020 - Distribuerte systemer
+**Obligatorisk oppgave 1**
